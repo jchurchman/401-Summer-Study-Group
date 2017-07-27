@@ -5,8 +5,10 @@
 ### Initial Notes:
 
 * Alternating Wednesdays and Thursdays
-..* First Meeting: Thursday, July 27 (duh)
-..* Next Meeting: Wednesday, Aug 2 (?)
+
+  * First Meeting: Thursday, July 27 (duh)
+
+  * Next Meeting: Wednesday, Aug 2 (?)
 
 * Plan for 5:30 - 7:00
 
@@ -15,8 +17,8 @@
 
 * Group dinner? Or individual dinner beforehand?
 * General approach?
-..* Lightning talks?
-..* What do **YOU** want to get out of this?
+  * Lightning talks?
+  * What do **YOU** want to get out of this?
 
 ### Initial/Tentative Schedule:
 
