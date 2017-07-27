@@ -1,8 +1,8 @@
 # 401-Summer-Study-Group
 
-#####Notes and plans for Alchemy Code Lab Summer 401 study group
+##### Notes and plans for Alchemy Code Lab Summer 401 study group
 
-###Initial Notes:
+### Initial Notes:
 
 * Alternating Wednesdays and Thursdays
 ..* First Meeting: Thursday, July 27 (duh)
@@ -11,14 +11,14 @@
 * Plan for 5:30 - 7:00
 
 
-###Housekeeping:
+### Housekeeping:
 
 * Group dinner? Or individual dinner beforehand?
 * General approach?
 ..* Lightning talks?
 ..* What do **YOU** want to get out of this?
 
-###Initial/Tentative Schedule:
+### Initial/Tentative Schedule:
 
 5:30 - Convene. Discuss housekeeping, general structure, goals
 5:45 - Meetup discussions
