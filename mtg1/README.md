@@ -40,7 +40,7 @@
 
 ### TODO
 
-figure out contributions/community feedback or interaction
-add resources from kyle shevlin's talk
-project scaffolding strategies
-debugging tutorial
+* figure out contributions/community feedback or interaction
+* add resources from kyle shevlin's talk
+* project scaffolding strategies
+* debugging tutorial
