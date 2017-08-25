@@ -4,3 +4,22 @@
 
 
 [Good News for Young Strivers: Networking Is Overrated](https://www.nytimes.com/2017/08/24/opinion/sunday/networking-connections-business.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-right-region&region=opinion-c-col-right-region&WT.nav=opinion-c-col-right-region)
+
+
+### REACT!
+
+https://transform.now.sh/html-to-jsx
+
+
+Jason Brown --
+
+jason@codedaily.io
+
+@browniefed
+
+reactcoach.com
+
+* components
+* state
+* react elements
+* props

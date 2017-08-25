@@ -1,0 +1,32 @@
+{
+    "env": {
+        "node": true,
+        "mocha": true,
+        "es6": true
+    },
+    "parserOptions": {
+        "exmaFeatures": {
+            "jsx": true
+        }
+    },
+    "extends": "[eslint:recommended, react-app]",
+    "rules": {
+        "no-console": "warn",
+        "indent": [
+            "error",
+            4
+        ],
+        "linebreak-style": [
+            "error",
+            "windows"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ]
+    }
+}
