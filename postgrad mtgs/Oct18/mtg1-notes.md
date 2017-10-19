@@ -3,6 +3,7 @@
 Directions reduction: https://www.codewars.com/kata/directions-reduction
     Data Structure problem
     Answer:
+    ```
     function dirReduc(arr) {
     let stack = [];
     arr.forEach((item, i) => {
@@ -25,6 +26,7 @@ Directions reduction: https://www.codewars.com/kata/directions-reduction
 );
     return stack
 };
+```
 
 Sum of Pairs: https://www.codewars.com/kata/sum-of-pairs
     Algorithm, Design Pattern
