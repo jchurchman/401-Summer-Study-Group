@@ -3,8 +3,7 @@
 Directions reduction: https://www.codewars.com/kata/directions-reduction
     Data Structure problem
     Answer:
-    ```
-    function dirReduc(arr) {
+    ```function dirReduc(arr) {
     let stack = [];
     arr.forEach((item, i) => {
         if(stack[stack.length -1] === 'NORTH' && arr[i] ==='SOUTH') {
